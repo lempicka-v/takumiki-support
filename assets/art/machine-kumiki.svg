@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="640" viewBox="0 0 800 640" role="img" aria-labelledby="title desc">
+<title id="title">組木をイメージした紹介用意匠</title><desc id="desc">木材が立体的に交差し、継ぎ目と木目が重なる幾何構成。ゲーム画面・実機モデルではありません。</desc>
+<defs>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0d7a2"/><stop offset=".35" stop-color="#b49660"/><stop offset=".6" stop-color="#e4c583"/><stop offset="1" stop-color="#6c4d29"/></linearGradient>
+ <linearGradient id="wood" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#d6a66c"/><stop offset=".48" stop-color="#aa7544"/><stop offset="1" stop-color="#5a3924"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e16a48"/><stop offset=".4" stop-color="#ab3628"/><stop offset="1" stop-color="#381915"/></linearGradient>
+ <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55544a"/><stop offset=".25" stop-color="#171c19"/><stop offset=".7" stop-color="#090e0b"/><stop offset="1" stop-color="#343a30"/></linearGradient>
+ <linearGradient id="steel" x1="0" y1="1" x2=".7" y2="0"><stop stop-color="#283e42"/><stop offset=".33" stop-color="#abb6ab"/><stop offset=".49" stop-color="#f2e9d1"/><stop offset=".52" stop-color="#80928b"/><stop offset=".8" stop-color="#d6d8c6"/><stop offset="1" stop-color="#405b60"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8bbcb8"/><stop offset=".4" stop-color="#325f6e"/><stop offset="1" stop-color="#0e2937"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#b88f54" stop-opacity=".23"/><stop offset="1" stop-color="#151a15" stop-opacity="0"/></radialGradient>
+ <radialGradient id="blueglow"><stop stop-color="#5e9eaf" stop-opacity=".3"/><stop offset="1" stop-color="#11212a" stop-opacity="0"/></radialGradient>
+ <radialGradient id="redglow"><stop stop-color="#b54933" stop-opacity=".35"/><stop offset="1" stop-color="#291413" stop-opacity="0"/></radialGradient>
+ <linearGradient id="ceramic" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0e9d7"/><stop offset=".55" stop-color="#c8c2ae"/><stop offset="1" stop-color="#7b8073"/></linearGradient>
+ <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M60 0H0V60" fill="none" stroke="#dbd1ac" stroke-opacity=".045"/></pattern>
+ <linearGradient id="fadeleft"><stop stop-color="#101310"/><stop offset=".42" stop-color="#101310" stop-opacity=".8"/><stop offset=".76" stop-color="#101310" stop-opacity="0"/></linearGradient>
+ </defs>
+<path fill="#101713" d="M0 0h800v640H0z"/><path fill="url(#grid)" d="M0 0h800v640H0z"/><ellipse cx="400" cy="300" rx="420" ry="330" fill="url(#glow)"/><ellipse cx="405" cy="548" rx="242" ry="42" fill="#080c09" opacity=".65"/>
+<path d="M114 372 377 220 655 379 392 532Z" fill="#241d14" stroke="#997748" stroke-opacity=".3"/>
+<g stroke="#3b291c" stroke-width="2" stroke-linejoin="round">
+<path d="M144 371 205 336 546 533 484 569Z" fill="url(#wood)"/><path d="M144 371v-65L484 502v67Z" fill="#6d442a"/><path d="M144 306 205 271 546 468 484 502Z" fill="#d1a069"/><path d="M484 502 546 468v65l-62 36Z" fill="#8c5b33"/>
+<path d="M254 307 315 272 656 469 594 505Z" fill="url(#wood)"/><path d="M254 307v-66L594 438v67Z" fill="#704a30"/><path d="M254 241 315 206 656 403 594 438Z" fill="#dcb27e"/><path d="M594 438 656 403v66l-62 36Z" fill="#94643a"/>
+<path d="M190 417 253 453 654 222 592 186Z" fill="#9d703e"/><path d="M190 417v-67L592 119v67Z" fill="#5e3f29"/><path d="M190 350 253 386 654 155 592 119Z" fill="url(#wood)"/><path d="M253 386v67L654 222v-67Z" fill="#b8844a"/>
+<path d="M83 355 146 391 546 160 484 124Z" fill="#9d703e"/><path d="M83 355v-67L484 57v67Z" fill="#65402a"/><path d="M83 288 146 324 546 93 484 57Z" fill="url(#wood)"/><path d="M146 324v67L546 160V93Z" fill="#b17d47"/>
+<path d="M336 333 400 296 464 333 400 370Z" fill="#e6c491"/><path d="M336 333v-111l64-37v111Z" fill="#785132"/><path d="M400 296V185l64 37v111Z" fill="#b48a57"/><path d="M336 222 400 185 464 222 400 259Z" fill="#ead0a3"/>
+<path d="M364 222 400 201 436 222 400 243Z" fill="#513b2a"/>
+</g>
+<g stroke="#4e3525" stroke-width="1" opacity=".45"><path d="M100 292 485 69M111 299 496 75M122 306 507 82M210 354 592 133M223 361 605 140M238 370 618 148M160 307 485 495M175 299 500 486M274 243 595 429M290 234 610 420"/></g>
+<g fill="none" stroke="#ddc399" opacity=".38"><path d="M41 337 398 543 746 343"/><path d="m111 498 82 47m420-397 68 39"/><circle cx="400" cy="324" r="272" stroke-dasharray="2 16"/></g>
+</svg>
