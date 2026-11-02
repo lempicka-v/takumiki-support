@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="640" viewBox="0 0 800 640" role="img" aria-labelledby="title desc">
+<title id="title">金継ぎをイメージした紹介用意匠</title><desc id="desc">生成りの陶片を金色の継ぎ目でつなぎ、割れ目を輝きとして見せる構成。ゲーム画面・実機モデルではありません。</desc>
+<defs>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0d7a2"/><stop offset=".35" stop-color="#b49660"/><stop offset=".6" stop-color="#e4c583"/><stop offset="1" stop-color="#6c4d29"/></linearGradient>
+ <linearGradient id="wood" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#d6a66c"/><stop offset=".48" stop-color="#aa7544"/><stop offset="1" stop-color="#5a3924"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e16a48"/><stop offset=".4" stop-color="#ab3628"/><stop offset="1" stop-color="#381915"/></linearGradient>
+ <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55544a"/><stop offset=".25" stop-color="#171c19"/><stop offset=".7" stop-color="#090e0b"/><stop offset="1" stop-color="#343a30"/></linearGradient>
+ <linearGradient id="steel" x1="0" y1="1" x2=".7" y2="0"><stop stop-color="#283e42"/><stop offset=".33" stop-color="#abb6ab"/><stop offset=".49" stop-color="#f2e9d1"/><stop offset=".52" stop-color="#80928b"/><stop offset=".8" stop-color="#d6d8c6"/><stop offset="1" stop-color="#405b60"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8bbcb8"/><stop offset=".4" stop-color="#325f6e"/><stop offset="1" stop-color="#0e2937"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#b88f54" stop-opacity=".23"/><stop offset="1" stop-color="#151a15" stop-opacity="0"/></radialGradient>
+ <radialGradient id="blueglow"><stop stop-color="#5e9eaf" stop-opacity=".3"/><stop offset="1" stop-color="#11212a" stop-opacity="0"/></radialGradient>
+ <radialGradient id="redglow"><stop stop-color="#b54933" stop-opacity=".35"/><stop offset="1" stop-color="#291413" stop-opacity="0"/></radialGradient>
+ <linearGradient id="ceramic" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0e9d7"/><stop offset=".55" stop-color="#c8c2ae"/><stop offset="1" stop-color="#7b8073"/></linearGradient>
+ <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M60 0H0V60" fill="none" stroke="#dbd1ac" stroke-opacity=".045"/></pattern>
+ <linearGradient id="fadeleft"><stop stop-color="#101310"/><stop offset=".42" stop-color="#101310" stop-opacity=".8"/><stop offset=".76" stop-color="#101310" stop-opacity="0"/></linearGradient>
+ </defs>
+<path fill="#101713" d="M0 0h800v640H0z"/><path fill="url(#grid)" d="M0 0h800v640H0z"/><ellipse cx="400" cy="300" rx="420" ry="330" fill="url(#glow)"/><ellipse cx="410" cy="534" rx="236" ry="35" fill="#070c08"/><g transform="rotate(-12 400 320)" stroke-linejoin="round">
+<path d="M147 270Q194 92 397 73Q590 90 654 260Q678 457 487 552Q272 619 161 428Z" fill="#44483c"/>
+<path d="M145 260 204 153 315 101 350 252 269 316Z" fill="url(#ceramic)"/>
+<path d="M325 97 414 75 535 114 509 230 438 277 362 251Z" fill="#e6dfcc"/>
+<path d="M547 121 624 201 654 281 520 320 447 286 520 236Z" fill="#ccc6b3"/>
+<path d="M143 273 260 327 276 428 196 469 158 401Z" fill="#c5c0af"/>
+<path d="M274 324 355 264 432 291 445 392 367 439 290 428Z" fill="#eee7d8"/>
+<path d="M446 297 515 334 657 295 641 397 581 478 457 393Z" fill="#b4b7a4"/>
+<path d="M206 478 287 441 368 453 410 566 308 551 239 514Z" fill="#ded8c3"/>
+<path d="M382 450 448 405 572 488 493 548 422 568Z" fill="#d5d0bb"/>
+<g fill="none" stroke="url(#gold)" stroke-width="7"><path d="M320 96 356 258 267 322 284 434 200 474M356 258 439 285 516 232 541 117M439 285 517 327 658 288M439 285 451 399 582 484M451 399 375 446 284 434M375 446 417 572M267 322 141 266"/></g>
+<path d="M204 233Q252 121 391 114M588 216q76 175-83 281" fill="none" stroke="#fff5da" stroke-width="3" opacity=".4"/>
+<path d="M216 353Q225 457 323 482M462 168q72 36 91 95" fill="none" stroke="#777d6b" stroke-opacity=".28" stroke-width="2"/>
+</g><path d="M126 111h52m-26-26v52M667 502h30m-15-15v30" stroke="#c6a66a" stroke-opacity=".45"/>
+<circle cx="403" cy="319" r="290" fill="none" stroke="#c7af79" stroke-opacity=".14"/>
+</svg>

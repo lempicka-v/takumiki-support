@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="640" viewBox="0 0 800 640" role="img" aria-labelledby="title desc">
+<title id="title">漆と金線をイメージした紹介用意匠</title><desc id="desc">深い漆色の曲面に、繊細な金の植物文様と波線を刻んだ構成。ゲーム画面・実機モデルではありません。</desc>
+<defs>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0d7a2"/><stop offset=".35" stop-color="#b49660"/><stop offset=".6" stop-color="#e4c583"/><stop offset="1" stop-color="#6c4d29"/></linearGradient>
+ <linearGradient id="wood" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#d6a66c"/><stop offset=".48" stop-color="#aa7544"/><stop offset="1" stop-color="#5a3924"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e16a48"/><stop offset=".4" stop-color="#ab3628"/><stop offset="1" stop-color="#381915"/></linearGradient>
+ <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55544a"/><stop offset=".25" stop-color="#171c19"/><stop offset=".7" stop-color="#090e0b"/><stop offset="1" stop-color="#343a30"/></linearGradient>
+ <linearGradient id="steel" x1="0" y1="1" x2=".7" y2="0"><stop stop-color="#283e42"/><stop offset=".33" stop-color="#abb6ab"/><stop offset=".49" stop-color="#f2e9d1"/><stop offset=".52" stop-color="#80928b"/><stop offset=".8" stop-color="#d6d8c6"/><stop offset="1" stop-color="#405b60"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8bbcb8"/><stop offset=".4" stop-color="#325f6e"/><stop offset="1" stop-color="#0e2937"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#b88f54" stop-opacity=".23"/><stop offset="1" stop-color="#151a15" stop-opacity="0"/></radialGradient>
+ <radialGradient id="blueglow"><stop stop-color="#5e9eaf" stop-opacity=".3"/><stop offset="1" stop-color="#11212a" stop-opacity="0"/></radialGradient>
+ <radialGradient id="redglow"><stop stop-color="#b54933" stop-opacity=".35"/><stop offset="1" stop-color="#291413" stop-opacity="0"/></radialGradient>
+ <linearGradient id="ceramic" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0e9d7"/><stop offset=".55" stop-color="#c8c2ae"/><stop offset="1" stop-color="#7b8073"/></linearGradient>
+ <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M60 0H0V60" fill="none" stroke="#dbd1ac" stroke-opacity=".045"/></pattern>
+ <linearGradient id="fadeleft"><stop stop-color="#101310"/><stop offset=".42" stop-color="#101310" stop-opacity=".8"/><stop offset=".76" stop-color="#101310" stop-opacity="0"/></linearGradient>
+ </defs>
+<path fill="#101713" d="M0 0h800v640H0z"/><path fill="url(#grid)" d="M0 0h800v640H0z"/><ellipse cx="400" cy="300" rx="420" ry="330" fill="url(#redglow)"/><path d="M566 70 720 256 617 560 422 611 310 386Z" fill="#391b16" opacity=".5"/>
+<g transform="rotate(-17 400 320)"><path d="M205 80Q392 3 595 96L627 462Q414 642 195 477Z" fill="url(#gold)"/><path d="M212 87Q392 14 587 102L618 457Q415 631 204 472Z" fill="url(#ink)"/>
+<path d="M229 108Q387 42 570 119" fill="none" stroke="#d7c395" stroke-opacity=".5"/>
+<path d="M226 122 231 458Q402 587 588 451" fill="none" stroke="#c3a46d" stroke-opacity=".4"/>
+<path d="M274 428C452 384 397 271 531 194" fill="none" stroke="url(#gold)" stroke-width="3"/>
+<g fill="none" stroke="#cbac70" stroke-width="1.2">
+<path d="M318 406Q251 303 314 236Q380 257 367 369Z"/><path d="M318 406Q269 307 314 236M318 406Q288 307 314 236M318 406Q309 313 314 236M318 406Q332 321 314 236M318 406Q349 324 314 236"/>
+<path d="M394 327Q410 193 491 169Q519 230 448 288Z"/><path d="M394 327Q435 217 491 169M394 327Q451 234 491 169M394 327Q470 253 491 169M394 327Q491 269 491 169"/>
+<path d="M430 282Q348 194 375 134Q455 125 464 221Z"/><path d="M430 282Q364 209 375 134M430 282Q386 203 375 134M430 282Q408 198 375 134M430 282Q435 197 375 134"/>
+</g>
+<g fill="none" stroke="#b7955c" stroke-width="1" opacity=".6"><path d="M219 449Q315 370 411 459T607 408"/><path d="M219 443Q315 361 411 452T607 400"/><path d="M219 437Q315 352 411 445T607 392"/><path d="M219 431Q315 343 411 438T607 384"/><path d="M219 425Q315 334 411 431T607 376"/><path d="M219 419Q315 325 411 424T607 368"/><path d="M219 413Q315 316 411 417T607 360"/><path d="M219 407Q315 307 411 410T607 352"/><path d="M219 401Q315 298 411 403T607 344"/><path d="M219 395Q315 289 411 396T607 336"/><path d="M219 389Q315 280 411 389T607 328"/><path d="M219 383Q315 271 411 382T607 320"/><path d="M219 377Q315 262 411 375T607 312"/></g><g fill="#e1c18b"><circle cx="279" cy="206" r="3"/><circle cx="501" cy="351" r="2"/><circle cx="356" cy="152" r="2"/><circle cx="534" cy="247" r="3"/><circle cx="302" cy="430" r="2"/></g></g>
+<path d="M102 546 263 590M605 70l94 80" stroke="#c6a66a" stroke-opacity=".35"/>
+<circle cx="413" cy="317" r="277" fill="none" stroke="#bc9e68" stroke-opacity=".13"/>
+</svg>

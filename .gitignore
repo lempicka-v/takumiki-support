@@ -1,0 +1,5 @@
+# Local preview output only; GitHub Pages serves the repository root.
+dist/
+.openai/
+__pycache__/
+.DS_Store

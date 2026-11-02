@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="640" viewBox="0 0 800 640" role="img" aria-labelledby="title desc">
+<title id="title">金属の刃をイメージした紹介用意匠</title><desc id="desc">鋼色の面と鋭い稜線が斜めに連なる抽象的な金属構成。ゲーム画面・実機モデルではありません。</desc>
+<defs>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0d7a2"/><stop offset=".35" stop-color="#b49660"/><stop offset=".6" stop-color="#e4c583"/><stop offset="1" stop-color="#6c4d29"/></linearGradient>
+ <linearGradient id="wood" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#d6a66c"/><stop offset=".48" stop-color="#aa7544"/><stop offset="1" stop-color="#5a3924"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e16a48"/><stop offset=".4" stop-color="#ab3628"/><stop offset="1" stop-color="#381915"/></linearGradient>
+ <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55544a"/><stop offset=".25" stop-color="#171c19"/><stop offset=".7" stop-color="#090e0b"/><stop offset="1" stop-color="#343a30"/></linearGradient>
+ <linearGradient id="steel" x1="0" y1="1" x2=".7" y2="0"><stop stop-color="#283e42"/><stop offset=".33" stop-color="#abb6ab"/><stop offset=".49" stop-color="#f2e9d1"/><stop offset=".52" stop-color="#80928b"/><stop offset=".8" stop-color="#d6d8c6"/><stop offset="1" stop-color="#405b60"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8bbcb8"/><stop offset=".4" stop-color="#325f6e"/><stop offset="1" stop-color="#0e2937"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#b88f54" stop-opacity=".23"/><stop offset="1" stop-color="#151a15" stop-opacity="0"/></radialGradient>
+ <radialGradient id="blueglow"><stop stop-color="#5e9eaf" stop-opacity=".3"/><stop offset="1" stop-color="#11212a" stop-opacity="0"/></radialGradient>
+ <radialGradient id="redglow"><stop stop-color="#b54933" stop-opacity=".35"/><stop offset="1" stop-color="#291413" stop-opacity="0"/></radialGradient>
+ <linearGradient id="ceramic" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0e9d7"/><stop offset=".55" stop-color="#c8c2ae"/><stop offset="1" stop-color="#7b8073"/></linearGradient>
+ <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M60 0H0V60" fill="none" stroke="#dbd1ac" stroke-opacity=".045"/></pattern>
+ <linearGradient id="fadeleft"><stop stop-color="#101310"/><stop offset=".42" stop-color="#101310" stop-opacity=".8"/><stop offset=".76" stop-color="#101310" stop-opacity="0"/></linearGradient>
+ </defs>
+<path fill="#101713" d="M0 0h800v640H0z"/><path fill="url(#grid)" d="M0 0h800v640H0z"/><ellipse cx="400" cy="300" rx="420" ry="330" fill="url(#blueglow)"/><circle cx="415" cy="329" r="251" fill="none" stroke="#9fb5b1" stroke-opacity=".18"/><circle cx="415" cy="329" r="269" fill="none" stroke="#bdc8b7" stroke-dasharray="1 12" stroke-opacity=".26"/>
+<path d="M108 506 611 54 451 428Z" fill="#141e1e" stroke="#93a9a8" stroke-opacity=".24"/>
+<path d="M126 527 633 72 439 470Z" fill="url(#steel)"/>
+<path d="M126 527 633 72 352 449Z" fill="#b4c0b4" opacity=".55"/>
+<path d="M126 527 352 449 633 72" fill="none" stroke="#f1e8cf" stroke-width="2"/>
+<path d="M169 534 633 72 439 470Z" fill="#24424a" opacity=".6"/>
+<path d="M202 556 684 164 524 478Z" fill="url(#steel)"/><path d="M202 556 684 164 446 463Z" fill="#d1d6c4" opacity=".48"/>
+<path d="M202 556 446 463 684 164" fill="none" stroke="#eee7d8" stroke-width="2"/>
+<path d="M278 561 722 287 591 502Z" fill="url(#steel)"/><path d="M278 561 722 287 510 488Z" fill="#9aaea9"/>
+<path d="M278 561 510 488 722 287" fill="none" stroke="#e8dec2" stroke-width="2"/>
+<path d="M89 486 254 572 311 540 146 449Z" fill="#1c2422" stroke="#bc9b62" stroke-width="2"/>
+<path d="M102 478 264 562M117 469 279 553M131 460 294 544" fill="none" stroke="#8e7042" stroke-width="3"/>
+<path d="M89 486v26l166 86 56-32v-26l-57 32Z" fill="#0c1210" stroke="#735c38"/>
+<path d="M556 94 594 72M647 429l75-48M283 107 160 221" fill="none" stroke="#d1c5a5" stroke-opacity=".5"/>
+<path d="M143 114 645 519" fill="none" stroke="#d1c5a5" stroke-opacity=".13"/>
+</svg>
